@@ -1,0 +1,138 @@
+/* dados do produto */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #0B0707;
+
+
+/* leitor do código2 */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #FFFFFF;
+
+
+/* leitor do código */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #FFFFFF;
+
+
+/* permissão aceita */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #FFFFFF;
+
+
+/* permissão negada */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #FFFFFF;
+
+
+/* logo/carregando */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #FFFFFF;
+
+
+/* Tela Inicial */
+
+
+position: relative;
+width: 393px;
+height: 640px;
+
+background: #FFFFFF;
+
+
+/* produtos */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #FFFFFF;
+
+
+/* lixeira */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #FFFFFF;
+
+
+/* chat */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #FFFFFF;
+
+
+/* notificações */
+
+
+position: relative;
+width: 362px;
+height: 640px;
+
+background: #FFFFFF;
+
+
+/* pedidos */
+
+
+position: relative;
+width: 357.02px;
+height: 640px;
+
+background: #FFFFFF;
+
+
+/* acabando */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #FFFFFF;
+
+
+/* Frame 7 */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #FFFFFF;
