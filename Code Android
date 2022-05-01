@@ -1,0 +1,529 @@
+<!-- dados do produto -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/dados_do_pr"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/dados_do_pr"
+ />
+
+
+<!-- drawable/dados_do_pr.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="360dp"
+android:height="640dp"
+android:viewportWidth="360"
+android:viewportHeight="640"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H360V640H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V640H360V0"
+android:fillColor="#0B0707"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- leitor do código2 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/leitor_do_c"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/leitor_do_c"
+ />
+
+
+<!-- drawable/leitor_do_c.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="360dp"
+android:height="640dp"
+android:viewportWidth="360"
+android:viewportHeight="640"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H360V640H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V640H360V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- leitor do código -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/leitor_do_c"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/leitor_do_c"
+ />
+
+
+<!-- drawable/leitor_do_c.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="360dp"
+android:height="640dp"
+android:viewportWidth="360"
+android:viewportHeight="640"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H360V640H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V640H360V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- permissão aceita -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/permiss_o_a"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/permiss_o_a"
+ />
+
+
+<!-- drawable/permiss_o_a.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="360dp"
+android:height="640dp"
+android:viewportWidth="360"
+android:viewportHeight="640"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H360V640H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V640H360V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- permissão negada -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/permiss_o_n"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/permiss_o_n"
+ />
+
+
+<!-- drawable/permiss_o_n.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="360dp"
+android:height="640dp"
+android:viewportWidth="360"
+android:viewportHeight="640"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H360V640H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V640H360V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- logo/carregando -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/logo_carreg"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/logo_carreg"
+ />
+
+
+<!-- drawable/logo_carreg.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="360dp"
+android:height="640dp"
+android:viewportWidth="360"
+android:viewportHeight="640"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H360V640H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V640H360V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- Tela Inicial -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/tela_inicia"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/tela_inicia"
+ />
+
+
+<!-- drawable/tela_inicia.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="393dp"
+android:height="640dp"
+android:viewportWidth="393"
+android:viewportHeight="640"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H393V640H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V640H393V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- produtos -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/produtos"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/produtos"
+ />
+
+
+<!-- drawable/produtos.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="360dp"
+android:height="640dp"
+android:viewportWidth="360"
+android:viewportHeight="640"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H360V640H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V640H360V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- lixeira -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/lixeira"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/lixeira"
+ />
+
+
+<!-- drawable/lixeira.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="360dp"
+android:height="640dp"
+android:viewportWidth="360"
+android:viewportHeight="640"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H360V640H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V640H360V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- chat -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/chat"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/chat"
+ />
+
+
+<!-- drawable/chat.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="360dp"
+android:height="640dp"
+android:viewportWidth="360"
+android:viewportHeight="640"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H360V640H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V640H360V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- notificações -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/notifica_es"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/notifica_es"
+ />
+
+
+<!-- drawable/notifica_es.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="362dp"
+android:height="640dp"
+android:viewportWidth="362"
+android:viewportHeight="640"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H362V640H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V640H362V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- pedidos -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/pedidos"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/pedidos"
+ />
+
+
+<!-- drawable/pedidos.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="357.02dp"
+android:height="640dp"
+android:viewportWidth="357.02"
+android:viewportHeight="640"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H357.02V640H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V640H357.02V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- acabando -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/acabando"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/acabando"
+ />
+
+
+<!-- drawable/acabando.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="360dp"
+android:height="640dp"
+android:viewportWidth="360"
+android:viewportHeight="640"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H360V640H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V640H360V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- Frame 7 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/frame_7"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/frame_7"
+ />
+
+
+<!-- drawable/frame_7.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="360dp"
+android:height="640dp"
+android:viewportWidth="360"
+android:viewportHeight="640"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H360V640H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V640H360V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
