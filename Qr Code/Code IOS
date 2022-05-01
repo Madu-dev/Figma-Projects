@@ -1,0 +1,206 @@
+// dados do produto
+
+
+var view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 360, height: 640)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 0.043, green: 0.027, blue: 0.027, alpha: 1).cgColor
+
+
+
+
+// leitor do código2
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 360, height: 640)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 1, green: 1, blue: 1, alpha: 1).cgColor
+
+
+
+
+// leitor do código
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 360, height: 640)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 1, green: 0.999, blue: 0.999, alpha: 1).cgColor
+
+
+
+
+// permissão aceita
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 360, height: 640)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 1, green: 1, blue: 1, alpha: 1).cgColor
+
+
+
+
+// permissão negada
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 360, height: 640)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 1, green: 1, blue: 1, alpha: 1).cgColor
+
+
+
+
+// logo/carregando
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 360, height: 640)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 1, green: 1, blue: 1, alpha: 1).cgColor
+
+
+
+
+// Tela Inicial
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 393, height: 640)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 1, green: 1, blue: 1, alpha: 1).cgColor
+
+
+
+
+// produtos
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 360, height: 640)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 1, green: 1, blue: 1, alpha: 1).cgColor
+
+
+
+
+// lixeira
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 360, height: 640)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 1, green: 1, blue: 1, alpha: 1).cgColor
+
+
+
+
+// chat
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 360, height: 640)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 1, green: 1, blue: 1, alpha: 1).cgColor
+
+
+
+
+// notificações
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 362, height: 640)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 1, green: 1, blue: 1, alpha: 1).cgColor
+
+
+
+
+// pedidos
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 357.02, height: 640)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 1, green: 1, blue: 1, alpha: 1).cgColor
+
+
+
+
+// acabando
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 360, height: 640)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 1, green: 1, blue: 1, alpha: 1).cgColor
+
+
+
+
+// Frame 7
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 360, height: 640)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 1, green: 1, blue: 1, alpha: 1).cgColor
